@@ -15,5 +15,5 @@ Use it, modify it, update it - do whatever you want. Of course I'm happy to hear
 
 ## Whom to thank
 Since the day of release several people asked me to update or open source the tool. Things were a little complicated as the actual owner of the source code wasn't me but my former company. 
-It turns out that my previous employer is still pretty awesome and is fine with open sourcing the code. So if you benefit from the code be aware that the guys at http://www.conplement.de/ are the true heros here and feel free to give them a thumbs up on their facebook page: https://www.facebook.com/conplement/?ref=ts&fref=ts.
+It turns out that my previous employer is still pretty awesome and is fine with open sourcing the code. So if you benefit from the code be aware that the guys at http://www.conplement.de/ are the true heroes here and feel free to give them a thumbs up on their facebook page: https://www.facebook.com/conplement/?ref=ts&fref=ts.
 
