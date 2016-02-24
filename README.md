@@ -2,13 +2,13 @@
 
 ## What it does
 This is the source code for a tool to deep copy work items in Team Foundation Server.
-The inital version of this tool has been published years ago (2011) here for Team Foundation Server 2010: https://visualstudiogallery.msdn.microsoft.com/cd89c5d3-4816-4f22-b04e-a397cc606be6 
+The initial version of this tool has been published years ago (2011) here for Team Foundation Server 2010: https://visualstudiogallery.msdn.microsoft.com/cd89c5d3-4816-4f22-b04e-a397cc606be6 
 
 ## About the tool
 The tool copies all work items related to a work item you select. It creates a "history link" to the original items. See details here: https://visualstudiogallery.msdn.microsoft.com/cd89c5d3-4816-4f22-b04e-a397cc606be6 
 
 ## About the code
-This was rather a proof for feasibilitiy than a product. Be aware that the tool and the code has some rough edges and usability might be limited. 
+This was rather a proof for feasibility than a product. Be aware that the tool and the code have some rough edges and usability might be limited. 
 
 ## What you should do with it
 Use it, modify it, update it - do whatever you want. Of course I'm happy to hear from you where my code goes into but I'm even happier if it is used at all.
